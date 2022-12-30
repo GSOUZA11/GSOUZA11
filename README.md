@@ -32,4 +32,4 @@
 <div style="display: inline_block"><br/>
   
    ## E-mail:
-  - bielaraujo878@gmail.com/>
+  - bielaraujo878@gmail.com
