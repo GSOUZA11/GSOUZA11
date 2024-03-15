@@ -4,9 +4,9 @@
  
  Sou iniciante neste mundo de desenvolvedores, espero ajudar e também receber ajuda de todos desta comunidade!!
 
- 🔗 24 anos;
+ 🔗 25 anos;
  🔗 São Paulo - Brasil;
-🔗 Estagiario em Service Desk | Uninove;
+🔗 Auxiliar em Service Desk | Uninove;
 🔗 Gestão da Tecnologia em Informação | Uninove;
 
          ▬▬▬▬.◙.▬▬▬▬
