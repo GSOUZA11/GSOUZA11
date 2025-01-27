@@ -2,12 +2,11 @@
 
  Welcome to my GitHub! 🤝
  
- Sou iniciante neste mundo de desenvolvedores, espero ajudar e também receber ajuda de todos desta comunidade!!
+ Sou Desenvolvedor Front-end, espero ajudar e também receber ajuda de todos desta comunidade!!
 
- 🔗 25 anos;
+ 🔗 26 anos;
  🔗 São Paulo - Brasil;
-🔗 Auxiliar em Service Desk | Uninove;
-🔗 Gestão da Tecnologia em Informação | Uninove;
+🔗 Formado em Gestão da Tecnologia em Informação | Uninove;
 
          ▬▬▬▬.◙.▬▬▬▬
            ▂▄▄▓▄▄▂                                                        ╫►►        ▁▁ ▓
