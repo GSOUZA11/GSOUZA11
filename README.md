@@ -31,12 +31,14 @@
 ## Technologies I use in my daily life 🖥
 
 <div style="display: inline_block"><br/>
-<img olign="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img olign="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <div style="display: inline_block"><br/>
 <img olign="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <div style="display: inline_block"><br/>
 <img olign="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <div style="display: inline_block"><br/>
+<div style="display: inline_block"><br/>
+<img olign="center" alt="Python" src="https://img.shields.io/pypi/pyversions/:packageName"/>
   
    ## E-mail:
   - bielaraujo878@gmail.com
