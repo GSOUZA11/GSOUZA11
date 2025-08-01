@@ -37,8 +37,7 @@
 <div style="display: inline_block"><br/>
 <img olign="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <div style="display: inline_block"><br/>
-<div style="display: inline_block"><br/>
-<img olign="center" alt="Python" src="https://img.shields.io/pypi/pyversions/:packageName"/>
+
   
    ## E-mail:
   - bielaraujo878@gmail.com
