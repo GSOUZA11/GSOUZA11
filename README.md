@@ -1,12 +1,32 @@
 ### Hi! I'm Gabriel Araujo Souza 😎
 
  Welcome to my GitHub! 🤝
- 
- Sou Desenvolvedor Front-end, espero ajudar e também receber ajuda de todos desta comunidade!!
+ Desenvolvedor Front-End e Entusiasta de IA | Transformando Ideias em Soluções Web Inteligentes
 
- 🔗 27 anos;
- 🔗 São Paulo - Brasil;
-🔗 Formado em Gestão da Tecnologia em Informação | Uninove;
+Com uma sólida experiência em Infraestrutura de TI e Service Desk, fiz uma transição bem sucedida para o Desenvolvimento de Software, combinando habilidades técnicas de resolução de problemas com a paixão por programação. Recentemente, concluí uma pós-graduação em Engenharia de Inteligência Artificial (2025), preenchendo a lacuna entre interfaces web modernas e soluções orientadas a dados.
+
+Minha jornada, desde a manutenção de data centers até a construção de aplicações web, me proporcionou uma perspectiva única: para mim, desenvolver é mais do que programar: é compreender o ecossistema que sustenta a confiabilidade e transforma a experiência do usuário.
+
+💻 Tecnologias:
+Front-End: React.js, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3/Tailwind
+Back-End/Scripting: Node.js, Python
+
+IA e Dados: Análise de Dados, Automação de Processos, conceitos de Engenharia de IA
+Ferramentas: Git/GitHub, VS Code
+
+🚀 Principais Diferenciais:
+
+Proativo e Adaptável: Histórico comprovado em ambientes de suporte técnico dinâmicos
+Aprendizado Contínuo: Atualização constante de habilidades, desde React Hooks até modelos de IA
+
+Bilíngue: Português, Espanhol e proficiência técnica em inglês
+
+Empreendedorismo: Fundador da Pub4G Comércio de Bebidas, empresa ativa há 7 anos, com patrocínio de multinacionais como Heineken, Ambev, Pepsico, SouzaCruz, Philip Morris e Coca-Cola. Essa experiência fortaleceu minha visão de negócios, gestão de equipes e relacionamento estratégico com grandes marcas.
+
+
+Busco oportunidades para aplicar minhas habilidades em Desenvolvimento Web e Integração de IA, ajudando equipes a construir produtos digitais eficientes e de alta qualidade.
+
+📂 Portfólio: portifolio-gabrielsouzadev.netlify.app   🐙 Github: github.com/GSOUZA11
 
 
 
